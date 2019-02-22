@@ -1,0 +1,9 @@
+C:\codeoulu\WebDemoJani\DemoJani\DemoJani\bin\Debug\netcoreapp1.1\DemoJani.deps.json
+C:\codeoulu\WebDemoJani\DemoJani\DemoJani\bin\Debug\netcoreapp1.1\DemoJani.runtimeconfig.json
+C:\codeoulu\WebDemoJani\DemoJani\DemoJani\bin\Debug\netcoreapp1.1\DemoJani.runtimeconfig.dev.json
+C:\codeoulu\WebDemoJani\DemoJani\DemoJani\bin\Debug\netcoreapp1.1\DemoJani.dll
+C:\codeoulu\WebDemoJani\DemoJani\DemoJani\bin\Debug\netcoreapp1.1\DemoJani.pdb
+C:\codeoulu\WebDemoJani\DemoJani\DemoJani\obj\Debug\netcoreapp1.1\DemoJani.csprojResolveAssemblyReference.cache
+C:\codeoulu\WebDemoJani\DemoJani\DemoJani\obj\Debug\netcoreapp1.1\DemoJani.AssemblyInfo.cs
+C:\codeoulu\WebDemoJani\DemoJani\DemoJani\obj\Debug\netcoreapp1.1\DemoJani.dll
+C:\codeoulu\WebDemoJani\DemoJani\DemoJani\obj\Debug\netcoreapp1.1\DemoJani.pdb
