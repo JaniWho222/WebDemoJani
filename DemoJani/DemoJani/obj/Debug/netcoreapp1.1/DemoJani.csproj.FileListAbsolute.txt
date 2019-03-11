@@ -47,3 +47,14 @@ C:\codeoulu\Demo2\WebDemoJani\DemoJani\DemoJani\obj\Debug\netcoreapp1.1\DemoJani
 C:\codeoulu\Demo2\WebDemoJani\DemoJani\DemoJani\obj\Debug\netcoreapp1.1\DemoJani.AssemblyInfo.cs
 C:\codeoulu\Demo2\WebDemoJani\DemoJani\DemoJani\obj\Debug\netcoreapp1.1\DemoJani.dll
 C:\codeoulu\Demo2\WebDemoJani\DemoJani\DemoJani\obj\Debug\netcoreapp1.1\DemoJani.pdb
+C:\BaseCamp\Demo3\WebDemoJani\DemoJani\DemoJani\bin\Debug\netcoreapp1.1\DemoJani.deps.json
+C:\BaseCamp\Demo3\WebDemoJani\DemoJani\DemoJani\bin\Debug\netcoreapp1.1\DemoJani.runtimeconfig.json
+C:\BaseCamp\Demo3\WebDemoJani\DemoJani\DemoJani\bin\Debug\netcoreapp1.1\DemoJani.runtimeconfig.dev.json
+C:\BaseCamp\Demo3\WebDemoJani\DemoJani\DemoJani\bin\Debug\netcoreapp1.1\DemoJani.dll
+C:\BaseCamp\Demo3\WebDemoJani\DemoJani\DemoJani\bin\Debug\netcoreapp1.1\DemoJani.pdb
+C:\BaseCamp\Demo3\WebDemoJani\DemoJani\DemoJani\obj\Debug\netcoreapp1.1\DemoJani.csprojAssemblyReference.cache
+C:\BaseCamp\Demo3\WebDemoJani\DemoJani\DemoJani\obj\Debug\netcoreapp1.1\DemoJani.csproj.CoreCompileInputs.cache
+C:\BaseCamp\Demo3\WebDemoJani\DemoJani\DemoJani\obj\Debug\netcoreapp1.1\DemoJani.AssemblyInfoInputs.cache
+C:\BaseCamp\Demo3\WebDemoJani\DemoJani\DemoJani\obj\Debug\netcoreapp1.1\DemoJani.AssemblyInfo.cs
+C:\BaseCamp\Demo3\WebDemoJani\DemoJani\DemoJani\obj\Debug\netcoreapp1.1\DemoJani.dll
+C:\BaseCamp\Demo3\WebDemoJani\DemoJani\DemoJani\obj\Debug\netcoreapp1.1\DemoJani.pdb
