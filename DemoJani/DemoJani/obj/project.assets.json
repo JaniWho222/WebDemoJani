@@ -10787,11 +10787,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\BaseCamp\\Demo3\\WebDemoJani\\DemoJani\\DemoJani\\DemoJani.csproj",
+      "projectUniqueName": "C:\\BaseCamp\\Demo4\\WebDemoJani\\DemoJani\\DemoJani\\DemoJani.csproj",
       "projectName": "DemoJani",
-      "projectPath": "C:\\BaseCamp\\Demo3\\WebDemoJani\\DemoJani\\DemoJani\\DemoJani.csproj",
+      "projectPath": "C:\\BaseCamp\\Demo4\\WebDemoJani\\DemoJani\\DemoJani\\DemoJani.csproj",
       "packagesPath": "C:\\Users\\tietokone\\.nuget\\packages\\",
-      "outputPath": "C:\\BaseCamp\\Demo3\\WebDemoJani\\DemoJani\\DemoJani\\obj\\",
+      "outputPath": "C:\\BaseCamp\\Demo4\\WebDemoJani\\DemoJani\\DemoJani\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tietokone\\AppData\\Roaming\\NuGet\\NuGet.Config",
