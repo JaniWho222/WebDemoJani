@@ -9,10 +9,10 @@
         color: red;
         h2
 
-    {
+    
         font-size: 110x
     }
-    }
+    
 
     *   {
         box-sizing: border-box;
@@ -111,7 +111,7 @@
 
     <div class="container">
         <div class="mySlides">
-            <div class="numbertext">1 /6</div>
+            <div class="numbertext">1 / 6</div>
             <img src="~/images/Kuvagalleria.jpg" style="width:100%">
         </div>
 
@@ -156,33 +156,32 @@
             </div>
             
             <div class="column">
-                
-                    <img class="demo cursor" src="~/images/kuvagalleria2.jpg" style="width:100%"
-                         onclick="currentSlide(1)" alt="Honda Prelude">
+                <img class="demo cursor" src="~/images/kuvagalleria2.jpg" style="width:100%"
+                         onclick="currentSlide(2)" alt="Honda Prelude">
             </div>
             
             <div class="column">
                     
                         <img class="demo cursor" src="~/images/kuvagalleria3.jpg" style="width:100%"
-                             onclick="currentSlide(1)" alt="Honda Civic">
+                             onclick="currentSlide(3)" alt="Honda Civic">
             </div>
             
             <div class="column">
                         
                             <img class="demo cursor" src="~/images/kuvagalleria4.jpg" style="width:100%"
-                                 onclick="currentSlide(1)" alt="Honda Accord">
+                                 onclick="currentSlide(4)" alt="Honda Accord">
             </div>
             
             <div class="column">
                             
                                 <img class="demo cursor" src="~/images/kuvagalleria5.jpg" style="width:100%"
-                                     onclick="currentSlide(1)" alt="Honda Prelude">
+                                     onclick="currentSlide(5)" alt="Honda Prelude">
             </div>
             
             <div class="column">
                                 
                                     <img class="demo cursor" src="~/images/kuvagalleria6.jpg" style="width:100%"
-                                         onclick="currentSlide(1)" alt="Honda Civic EP3">
+                                         onclick="currentSlide(6)" alt="Honda Civic EP3">
                                 
                         </div>
                         </div>
@@ -216,8 +215,8 @@
                                 slides[slideIndex-1].style.display = "block";
                                 dots[slideIndex-1].className += "active";
                                 captionText.innerHTML = dots[slideIndex-1].alt;
-                            }
-                    </script>
+                    }
+</script>
 
 </body>
 </html>
